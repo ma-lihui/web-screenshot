@@ -1,6 +1,6 @@
-# dressing mirror
+# web screenshot
 
-quick start a react project
+get website screenshot
 
 ### Install & Start
 
@@ -8,11 +8,5 @@ quick start a react project
 npm i
 npm start
 ```
+open http://localhost:3000/?width=1600&height=800&url=https://github.com/
 
-open http://localhost:8000/
-
-### Build
-
-```sh
-npm run build  # then see dist dir
-```
